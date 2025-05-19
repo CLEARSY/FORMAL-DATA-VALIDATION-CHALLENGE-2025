@@ -1,15 +1,15 @@
 # FORMAL-DATA-VALIDATION-CHALLENGE-2025
 
-The RSSRail 2025 conference will organise a data validation challenge to promote the use of formal methods for validating constant data among CBTC and ERTMS industry companies, operators, and research teams. 
+The [RSSRail 2025 conference](https://rssrail2025.isti.cnr.it/) will organise a data validation challenge to promote the use of formal methods for validating constant data among CBTC and ERTMS industry companies, operators, and research teams. 
 We encourage potential participants to register by sending an email to matthias.oustric@clearsy.com and to share their work at this unique event.
+Registration is informal but mandatory to participate.
 
 ## What?
 The goal? To identify anomalies in a database for a specified list of self-sufficient specifications. 
-This database, especially designed for this event will use the open format of the ERTMS system. 
+This database, especially designed for this event, will use the open format of the ERTMS system. 
 It will include key elements such as telegrams, transponders, and LEUs. 
 The tasks aim to verify the coherence of telegram formats, the rules of transponder positions, and the construction of movement authority packets within a realistic framework. 
 Participation is free and open to all teams, from academia and from industry.
-
 
 ## How?
 The challenge is designed to be completed in one week by a team of 2 to 3 people. 
@@ -17,10 +17,11 @@ The necessary resources (specification, data) will be accessible on this dedicat
 The data will be produced in .xml and .xlsx formats for wide accessibility. 
 A support will be provided during this period to address any questions and resolve issues. 
 Questions and answers will be shared with all participants to ensure a common understanding.
-
+Presentation slides need to be sent 2 weeks before the conference to ensure a presentation slot during the dedicated session.
 
 ## When?
-During the conference a dedicated 1h30 session will enable participating teams to present their analyses and discuss the results. 
+During the conference a dedicated 1h30 session will be organized: 10' for Matthias to present the subject, equal time for the participants to expose their models and results.
+It will enable participating teams to present their analyses and discuss the results. 
 This will be the opportunity for newcomers to engage with the subject thanks to this hands-on experience. 
 
 
@@ -49,3 +50,9 @@ Formal data validation checks that all data used by the safety-critical software
 - Modeling of data constraints using formal specification languages (e.g., B, Event-B, Z, or custom domain-specific languages)
 - Automated or semi-automated checking using tools
 - Proofs or exhaustive checks that the data satisfy safety invariants
+
+### Some scientific resources
+- Abo, R., Voisin, L. (2014). Formal Implementation of Data Validation for Railway Safety-Related Systems with OVADO. In: Counsell, S., Núñez, M. (eds) Software Engineering and Formal Methods. SEFM 2013. Lecture Notes in Computer Science(), vol 8368. Springer.
+- Bendisposto, J., Krings, S., Leuschel, M. (2014). Who watches the watchers: Validating the ProB Validation Tool}, In: Electronic Proceedings in Theoretical Computer Science, vol 149.
+- Butler, M. et al. (2020). The First Twenty-Five Years of Industrial Use of the B-Method. In: ter Beek, M.H., Ničković, D. (eds) Formal Methods for Industrial Critical Systems. FMICS 2020. Lecture Notes in Computer Science(), vol 12327. Springer.
+- Lecomte, T., Burdy, L, Leuschel, M. (2012). Formally Checking Large Data Sets in the Railways. In: Proceedings of DS-Event-B 2012: Workshop on the experience of and advances in developing dependable systems in Event-B, ICFEM 2012. 
