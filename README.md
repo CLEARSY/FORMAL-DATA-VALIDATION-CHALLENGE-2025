@@ -1,11 +1,16 @@
 # FORMAL-DATA-VALIDATION-CHALLENGE-2025
+![](images/github-title.jpg)
 
-The [RSSRail 2025 conference](https://rssrail2025.isti.cnr.it/) will organise a data validation challenge to promote the use of formal methods for validating constant data among CBTC and ERTMS industry companies, operators, and research teams. 
-We encourage potential participants to register by sending an email to matthias.oustric@clearsy.com and to share their work at this unique event.
-Registration is informal but mandatory to participate.
+The [RSSRail 2025 conference](https://rssrail2025.isti.cnr.it/) is organising a data validation challenge to promote the use of formal methods for validating constant data among CBTC and ERTMS industry companies, operators, and research teams. 
+To participate do as follow:
+1. Have a look at the content of this site and see if it fits your skills.
+2. Register by sending an email to matthias.oustric@clearsy.com. Registration is informal but mandatory to participate.
+3. Develop your solution. Ask questions to Matthias. Questions are shared to anyone as well as the answers.
+4. Send presentation slides at least 2 weeks before the conference, to validate your participation to the Challenge session.
+5. Present your contribution on site in Pisa during the Challenge session.
 
 ## What?
-The goal? To identify anomalies in a database for a specified list of self-sufficient specifications. 
+The goal? To identify **anomalies** in a database for a specified list of self-sufficient specifications. 
 This database, especially designed for this event, will use the open format of the ERTMS system. 
 It will include key elements such as telegrams, transponders, and LEUs. 
 The tasks aim to verify the coherence of telegram formats, the rules of transponder positions, and the construction of movement authority packets within a realistic framework. 
@@ -17,7 +22,6 @@ The necessary resources (specification, data) will be accessible on this dedicat
 The data will be produced in .xml and .xlsx formats for wide accessibility. 
 A support will be provided during this period to address any questions and resolve issues. 
 Questions and answers will be shared with all participants to ensure a common understanding.
-Presentation slides need to be sent 2 weeks before the conference to ensure a presentation slot during the dedicated session.
 
 ## When?
 During the conference a dedicated 1h30 session will be organized: 10' for Matthias to present the subject, equal time for the participants to expose their models and results.
