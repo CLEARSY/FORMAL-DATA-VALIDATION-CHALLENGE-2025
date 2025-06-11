@@ -28,7 +28,7 @@ During the conference a dedicated 1h30 session will be organized: 10' for Matthi
 It will enable participating teams to present their analyses and discuss the results. 
 This will be the opportunity for newcomers to engage with the subject thanks to this hands-on experience. 
 
-![](images/schedule - update.jpg)
+![](images/schedule-update.jpg)
 
 
 ## Explanations
