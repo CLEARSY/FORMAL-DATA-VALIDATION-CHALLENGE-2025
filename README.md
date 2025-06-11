@@ -4,7 +4,7 @@
 The [RSSRail 2025 conference](https://rssrail2025.isti.cnr.it/) is organising a data validation challenge to promote the use of formal methods for validating constant data among CBTC and ERTMS industry companies, operators, and research teams. 
 To participate do as follow:
 1. Have a look at the content of this site and see if it fits your skills.
-2. Register by sending an email to matthias.oustric@clearsy.com. Registration is informal but mandatory to participate.
+2. Register by sending an email to challengeRSSR2025@clearsy.com. Registration is informal but mandatory to participate.
 3. Develop your solution. Ask questions to Matthias. Questions are shared to anyone as well as the answers.
 4. Send presentation slides at least 2 weeks before the conference, to validate your participation to the Challenge session.
 5. Present your contribution on site in Pisa during the Challenge session.
